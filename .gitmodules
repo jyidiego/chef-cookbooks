@@ -54,7 +54,7 @@
 	url = https://github.com/rcbops-cookbooks/swift.git
 [submodule "cookbooks/osops-utils"]
 	path = cookbooks/osops-utils
-	url = https://github.com/rcbops-cookbooks/osops-utils.git
+	url = https://github.com/jyidiego/osops-utils.git
 [submodule "cookbooks/dsh"]
 	path = cookbooks/dsh
 	url = https://github.com/rcbops-cookbooks/dsh.git
