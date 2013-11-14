@@ -105,7 +105,7 @@
 	url = https://github.com/rcbops-cookbooks/mysql-openstack.git
 [submodule "cookbooks/mysql"]
 	path = cookbooks/mysql
-	url = https://github.com/opscode-cookbooks/mysql
+	url = https://github.com/jyidiego/mysql
 [submodule "cookbooks/build-essential"]
 	path = cookbooks/build-essential
 	url = https://github.com/opscode-cookbooks/build-essential
